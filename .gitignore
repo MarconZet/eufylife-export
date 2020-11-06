@@ -1,4 +1,5 @@
 /apps/
+/tmp/
 *.ab
 *.tar
 *.csv
