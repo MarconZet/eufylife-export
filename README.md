@@ -1,6 +1,10 @@
 # EufyLife export
 Export your body data collected by Eufy Smart Scale from app to CSV
 
+## Requirements
+* Linux (or WSL)
+* Python 3.7+
+
 ## How it works
 There is no way to export data using official means.
 It's time to get creative.
@@ -12,7 +16,7 @@ We can use that for our advantage.
 ### 1. Acuire backup file
 The first step is to get a backup file which contains the data we want
 #### On Android
-(I don't have android, so i don't know, pls help)
+Download your backup from GoogleDrive put it inside the folder with the script
 #### On IOS
 The program was made with the android system in mind.
 If you are an IOS user, you will have to do some additional work.
